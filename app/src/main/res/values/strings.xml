@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MotionSensors</string>
+    <string name="pitch_sensor">Pitch Sensor: %1$.2f</string>
+    <string name="roll_sensor">Roll Sensor: %1$.2f</string>
+    <string name="no_sensor">No motion sensor available</string>
+</resources>
